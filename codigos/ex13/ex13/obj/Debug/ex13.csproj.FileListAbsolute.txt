@@ -1,0 +1,10 @@
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\bin\Debug\ex13.exe.config
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\bin\Debug\ex13.exe
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\bin\Debug\ex13.pdb
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.csprojAssemblyReference.cache
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.Form1.resources
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.Properties.Resources.resources
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.csproj.GenerateResource.cache
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.csproj.CoreCompileInputs.cache
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.exe
+C:\Users\dodoe\OneDrive\tremo3ads\estruturadedados\ex13\ex13\obj\Debug\ex13.pdb
